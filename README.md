@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software)
@@ -7,33 +6,33 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Me chamo **Rafael Rodrigo**, tenho 29 anos e moro em **Curitiba - PR**.  
-Atualmente curso **Engenharia de Software** na positivo, com foco em criar soluções reais para **delivery**, automação e sistemas de logística voltados a marmitarias.  
-Sou apaixonado por tecnologia, programação e design — e estou construindo uma base sólida para criar projetos que realmente resolvem problemas do dia a dia.
+Me chamo Rafael Rodrigo, moro em Curitiba – PR e curso Engenharia de Software na Universidade Positivo.
+Sou apaixonado por tecnologia, programação e design, e busco me tornar um desenvolvedor fullstack capaz de criar soluções úteis, intuitivas e de impacto para o dia a dia.
+Meu foco atual é evoluir constantemente, construir projetos reais e transformar ideias em experiências digitais funcionais e bem desenhadas.
 
----
+<br>
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
   <strong>Front-end</strong><br>
-  <img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="TailwindCSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="HTML5" width="50px" src="https://skillicons.dev/icons?i=html"/>
+  <img alt="CSS3" width="50px" src="https://skillicons.dev/icons?i=css"/>
+  <img alt="TailwindCSS" width="50px" src="https://skillicons.dev/icons?i=tailwind"/>
+  <img alt="JavaScript" width="50px" src="https://skillicons.dev/icons?i=javascript"/>
+  <img alt="TypeScript" width="50px" src="https://skillicons.dev/icons?i=typescript"/>
+  <img alt="React" width="50px" src="https://skillicons.dev/icons?i=react"/>
 </div>
 
 <div align="center" style="margin-top: 16px;">
   <strong>Back-end</strong><br>
-  <img alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="MariaDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"/>
+  <img alt="NodeJS" width="50px" src="https://skillicons.dev/icons?i=nodejs"/>
+  <img alt="PHP" width="50px" src="https://skillicons.dev/icons?i=php"/>
+  <img alt="MySQL" width="50px" src="https://skillicons.dev/icons?i=mysql"/>
+  <img alt="Docker" width="50px" src="https://skillicons.dev/icons?i=docker"/>
 </div>
 
----
+<br>
 
 ## 📬 Contato
 
