@@ -32,6 +32,12 @@ Meu foco atual é evoluir constantemente, construir projetos reais e transformar
   <img alt="Docker" width="50px" src="https://skillicons.dev/icons?i=docker"/>
 </div>
 
+<div align="center" style="margin-top: 16px;">
+  <strong>Frameworks</strong><br>
+  <img alt="Express" width="50px" src="https://skillicons.dev/icons?i=express"/>
+  <img alt="Sequelize" width="50px" src="https://skillicons.dev/icons?i=sequelize"/>
+</div>
+
 <br>
 
 ## 📬 Contato
